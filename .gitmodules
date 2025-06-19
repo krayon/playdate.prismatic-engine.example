@@ -1,0 +1,3 @@
+[submodule "SUBMODULES/prismatic-engine.git"]
+	path = SUBMODULES/prismatic-engine.git
+	url = ssh://git@github.com/krayon/playdate.prismatic-engine.git
