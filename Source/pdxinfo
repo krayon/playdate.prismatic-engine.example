@@ -1,0 +1,7 @@
+name=Sample Game
+author=Bumcone
+description=A sample game built with the Prismatic Engine
+bundleID=com.bumcone.sample-game
+imagePath=
+version=0.0.1
+buildNumber=1
